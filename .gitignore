@@ -1,0 +1,9 @@
+vm/*.log
+vm/.vagrant/
+vm/elasticsearch-7.5.2-amd64.deb
+vm/kibana-8.5.2-amd64.deb
+vm/kibana-7.5.2-amd64.deb
+vm/logstash-8.5.2-amd64.deb
+vm/logstash-7.5.2.deb
+vm/filebeat-8.5.2-amd64.deb
+vm/filebeat-7.5.2-amd64.deb
